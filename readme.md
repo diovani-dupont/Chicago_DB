@@ -1,4 +1,4 @@
-
+`*Socioeconomic Indicators in Chicago*´
 
 Através do curso "Python 101 for Data Science - IBM Developer Skills Network", trabalhei em um projeto onde pude aprender como utilizar dados de três conjuntos de dados de Chicago: indicadores socioeconômicos, dados de escolas públicas e dados de crimes.
 
